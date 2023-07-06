@@ -1,6 +1,6 @@
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
-// Get form element
+
 const formRef = document.querySelector('.form');
 
 // Set event listener submit on form
